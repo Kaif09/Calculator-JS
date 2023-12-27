@@ -1,4 +1,4 @@
-# Calculator JS
+# Simple Calculator
 
 This is a Piano project made using HTML5, CSS3 & JS. This is for the beginners who are starting their journey of web development. In this project most of the focus was on HTML and Less on CSS JS
 
