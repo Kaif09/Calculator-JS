@@ -4,15 +4,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Combined Calculator</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <div id="calculator">
-      <input
-        type="text"
-        id="result"
-        disabled
-        style="width: 200px; margin-bottom: 10px"
-      />
+      <input type="text" class="inpt" id="result" disabled placeholder="0" />
 
       <div class="button-set">
         <button onclick="appendToResult('AC')" class="operator">AC</button>
